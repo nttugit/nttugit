@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nttugit
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java Backend Developing
+- 🌱 I’m currently learning something I do not know
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via email: nttukhtn@gmail.com or phone: 0967410301
 
